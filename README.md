@@ -17,3 +17,5 @@ Además, dado que se trabajará con múltiples funciones y definiciones, se har�
 Para finalizar, pueden identificar nuestros módulos como los archivos (cinematicas.py, metricas.py, robot_data.py y graficos.py), mientras que el archivo principal se encuentra en main.py.
 
 (Si se desea, se pueden ver los resultados de la simulación en la carpeta resultados_graficos).
+
+Añadido a esto, podran encontrar un archivo de nombre tareaprogra2.pdf donde podran encontrar 4 preguntas que nos permiten una mejor comprension del paper que se uso de referencia.
