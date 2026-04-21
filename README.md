@@ -1,4 +1,4 @@
-TAREA 1 EIE434
+TAREA N°1 EIE434
 
 integrantes: Hugo Nuñez, Sebastian Palacios, Javiera vega y Jordan Porras
 
