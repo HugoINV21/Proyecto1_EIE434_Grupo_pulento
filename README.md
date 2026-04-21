@@ -9,5 +9,6 @@ En dicho proyecto se plantea la aplicación de un robot compacto, económico y p
 
 Además, dado que se trabajará con múltiples funciones y definiciones, se hará uso de módulos y paquetes, lo que permitirá organizar mejor el código. Asimismo, para una mayor comprensión, se explicará el uso de estos módulos y paquetes según nuestra interpretación.
 
-**Módulo:** Un módulo en Python es un archivo .py que contiene funciones, variables o clases que pueden ser utilizadas en otros programas mediante su importación. Esto permite separar el código en distintas partes, organizándolo mejor y evitando tener todo en un solo archivo.  Además de permitir reutilizar código según sea necesario.
+**Módulo:** Un módulo en Python es un archivo .py que contiene funciones, variables o clases que pueden ser utilizadas en otros programas mediante su importación. Esto permite separar el código en distintas partes, organizándolo mejor y evitando tener todo en un solo archivo.  Además de permitir reutilizar código según sea necesario. 
+
 **Paquete:** Un paquete es una forma de organizar y estructurar el código, agrupando módulos relacionados en directorios. Básicamente, es una carpeta que contiene un archivo __init__.py e uno o más archivos de Python (módulos). Este archivo __init__.py es un archivo especial que se ejecuta cuando el paquete es importado, permitiendo definir el paquete e inicializar su espacio de nombres, además de poder incluir código que se ejecute en ese momento. Sin este archivo, Python no reconoce el directorio como un paquete.
