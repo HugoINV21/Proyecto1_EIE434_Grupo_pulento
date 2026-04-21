@@ -1,4 +1,4 @@
-# Proyecto1_EIE434
+#tarea1_EIE434
 integrantes: Hugo Nuñez, Sebastian Palacios, Javiera vega y Jordan Porras
 
 En este repositorio se presenta la realización de la tarea del curso EIE 434 de la PUCV, cuyo objetivo es analizar y comprender una parte inicial de lo que sería la primera etapa de un proyecto de magíster desarrollado en nuestra escuela.
