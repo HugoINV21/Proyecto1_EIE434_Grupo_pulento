@@ -12,3 +12,7 @@ Además, dado que se trabajará con múltiples funciones y definiciones, se har�
 **Módulo:** Un módulo en Python es un archivo .py que contiene funciones, variables o clases que pueden ser utilizadas en otros programas mediante su importación. Esto permite separar el código en distintas partes, organizándolo mejor y evitando tener todo en un solo archivo.  Además de permitir reutilizar código según sea necesario. 
 
 **Paquete:** Un paquete es una forma de organizar y estructurar el código, agrupando módulos relacionados en directorios. Básicamente, es una carpeta que contiene un archivo __init__.py e uno o más archivos de Python (módulos). Este archivo __init__.py es un archivo especial que se ejecuta cuando el paquete es importado, permitiendo definir el paquete e inicializar su espacio de nombres, además de poder incluir código que se ejecute en ese momento. Sin este archivo, Python no reconoce el directorio como un paquete.
+
+Para finalizar, pueden identificar nuestros modulos como los archivos(cinematicas.py,metricas.py,robot_data.py y graficos.py) y nuestro paquete o main, pueden encontranto en main.py
+
+(Si se desea, pueden ver los resultados de la simulacion en la carpeta resultados_graficos)
